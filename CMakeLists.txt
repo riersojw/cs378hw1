@@ -53,6 +53,7 @@ find_package(catkin REQUIRED COMPONENTS
    drive_param.msg
    drive_values.msg
    pid_input.msg
+   hw1_msg.msg
  )
 
 ## Generate services in the 'srv' folder
